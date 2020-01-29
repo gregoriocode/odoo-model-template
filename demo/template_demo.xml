@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="template_demo_01" model="template.template">
+            <field name="name">Demo 01 </field>
+            <field name="code">01</field>
+        </record>
+        <record id="template_demo_02" model="template.template">
+            <field name="name">Demo 02</field>
+            <field name="code">02</field>
+        </record>
+    </data>
+</odoo>
